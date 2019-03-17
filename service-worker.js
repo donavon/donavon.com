@@ -8,8 +8,8 @@ const RUNTIME = 'runtime';
 const PRECACHE_URLS = [
   'index.html', './', // Alias for index.html
   'manifest.json',
-  'img/',
-  'img/icon-32.png'
+  'img/icon-32.png',
+  'img/icon-144.png'
 ];
 
 // The install handler takes care of precaching the resources we always need.
