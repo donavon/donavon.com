@@ -1,6 +1,7 @@
 {
   "name": "donavon west",
   "short_name": "donavon",
+  "start_url": "index.html",
   "icons": [
     {
       "src": "/img/icon-32.png",
@@ -20,6 +21,11 @@
     {
       "src": "/img/icon-128.png",
       "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon-144.png",
+      "sizes": "144x144",
       "type": "image/png"
     },
     {
